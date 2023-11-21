@@ -1,6 +1,6 @@
 // ===============================
 // ATR v5
-// © 2016 Triyan W. Nugroho
+// RUDI SISWANTO 
 // ===============================
 
 #include <LiquidCrystal.h>
